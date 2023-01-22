@@ -252,7 +252,7 @@ laptop before we meet.
 ## Week 16, April 24: Chapter-16
 
 <center>
-![spc.jpg]i (immgLogo)
+![spc.jpg](immgLogo)
 </center>
 
 ``` r
