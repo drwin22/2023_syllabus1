@@ -251,9 +251,7 @@ laptop before we meet.
 
 ## Week 16, April 24: Chapter-16
 
-<center>
 ![Banner](spc.jpg)
-</center>
 
 ``` r
 # devtools::install_github("rstudio/gt")
