@@ -184,20 +184,3 @@ cat(paste0('<center><img src="', image,  '"></center>'))
 library(gt)
 head(mtcars)
 ```
-
-
-```{r}
-df=mtcars
-df %>%gt()
-df %>%gt() %>%
-tab_header(title = "mtcars dataset") %>%
-tab_style(
-style = list(cell_fill(color = "#b2f7ef"),
-cell_text(weight = "bold")),
-locations = cells_body(columns = mpg))%>%
-tab_style(
-style = list(cell_fill(color = "#ffefb5"),
-cell_text(weight = "bold")), 
-locations = cells_body(columns = hp))
-```
-
