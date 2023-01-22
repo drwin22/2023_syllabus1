@@ -1,5 +1,5 @@
 ---
-title: 'Math 0910: Introduction Algebra'
+title: 'Syllabus Math 0910: Introduction Algebra'
 author: "Prof. Francois Nguyen"
 date: "Spring 2023"
 output: github_document
@@ -28,13 +28,7 @@ meeting_headers <- paste0("Week ", 1:16, ", ", months(meetings), " ", day(meetin
 This course is Introduction to Algebra Online course. The topics include real numbers, methods of solving equations and inequalities and their applications, exponents and polynomials, factoring polynomials, solving quadratic equations and their applications, rational expressions, rational exponents and radicals, and graphing functions (linear and quadratic).
 ```{r}
 # Define the cars vector with 5 values
-cars <- c(1, 3, 6, 4, 9)
 
-# Graph cars using blue points overlayed by a line 
-plot(cars, type="o", col="blue")
-
-# Create a title with a red, bold/italic font
-title(main="Autos", col.main="red", font.main=4)
 ```
 
 
@@ -56,8 +50,8 @@ At the completion of this course, students will be able to:
 
 # Course Policies:
 ## General:
-– Computers, Calculators are not to be used unless instructed to do so.
-– Quizzes and exams are closed book, closed notes.
+�� Computers, Calculators are not to be used unless instructed to do so.
+�� Quizzes and exams are closed book, closed notes.
 
 ## Grade:
 
@@ -92,9 +86,9 @@ Graph + geom_point() + labs(x="Percent Attendance in Class", y="Final Grade in C
                               geom_smooth(method=lm)
 ```
 
-–	Attendance is expected and will be taken each class. You are allowed to miss 1 class during the semester without penalty. Any further absences will result in point and/or grade deductions.
+	Attendance is expected and will be taken each class. You are allowed to miss 1 class during the semester without penalty. Any further absences will result in point and/or grade deductions.
 
-–	Students are responsible for all missed work, regardless of the reason for absence. It is also the absentee’s responsibility to get all missing notes or materials.
+	Students are responsible for all missed work, regardless of the reason for absence. It is also the absentee’s responsibility to get all missing notes or materials.
 
 # Academic Honesty Policy Summary:
 
@@ -118,9 +112,6 @@ Online submission of, or placing one’s name on an exam, assignment, or any cou
 An instructor may impose a sanction on the student that varies depending upon the instructor’s evaluation of the nature and gravity of the offense. Possible sanctions include but are not limited to, the following: (1) Require the student to redo the assignment; (2) Require the student to complete another assignment; (3) Assign a grade of zero to the assignment; (4) Assign a final grade of “F” for the course. A student may appeal these decisions according to the Academic Grievance Procedure. (See the relevant section in the Student Handbook.) Multiple violations of this policy will result in a referral to the Conduct Review Board for possible additional sanctions.
 
 The full text of the Academic Honesty Policy is in the Student Handbook.
-
-
-
 
 # Course Schedule
 (See the addedum)
@@ -185,7 +176,7 @@ The full text of the Academic Honesty Policy is in the Student Handbook.
 ## `r meeting_headers[16]`: Chapter-16
 
 ```{r echo = FALSE, results = 'asis'}
-image = "https://media.glassdoor.com/l/468324/dunwoody-college-office.jpg"
+image = "spc.jpg"
 cat(paste0('<center><img src="', image,  '"></center>'))
 ```
 ```{r}

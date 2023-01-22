@@ -1,4 +1,4 @@
-Math 0910: Introduction Algebra
+Syllabus Math 0910: Introduction Algebra
 ================
 Prof. Francois Nguyen
 Spring 2023
@@ -14,16 +14,7 @@ quadratic).
 
 ``` r
 # Define the cars vector with 5 values
-cars <- c(1, 3, 6, 4, 9)
-
-# Graph cars using blue points overlayed by a line 
-plot(cars, type="o", col="blue")
-
-# Create a title with a red, bold/italic font
-title(main="Autos", col.main="red", font.main=4)
 ```
-
-![](index_files/figure-gfm/unnamed-chunk-2-1.png)<!-- -->
 
 # Course Requirements
 
@@ -50,33 +41,33 @@ At the completion of this course, students will be able to:
 
 ## General:
 
-– Computers, Calculators are not to be used unless instructed to do so.
-– Quizzes and exams are closed book, closed notes.
+Computers, Calculators are not to be used unless instructed to do so. 
+Quizzes and exams are closed book, closed notes.
 
 ## Grade:
 
 makeup quizzes or exams will be given.
 
-– Grades in the C range represent performance that meets expectations;
+â Grades in the C range represent performance that meets expectations;
 Grades in the B range represent performance that is substantially better
 than the expectations; Grades in the A range represent work that is
 excellent.
 
-– Grades will be maintained in the LMS course shell. Students are
+â Grades will be maintained in the LMS course shell. Students are
 responsible for tracking their progress by referring to the online
 gradebook.
 
 # Assignments
 
-– Students are expected to work independently. Offering and accepting
+â Students are expected to work independently. Offering and accepting
 solutions from others is an act of plagiarism, which is a serious
 offense and all involved parties will be penalized according to the
 Academic Honesty Policy.
 
-– Discussion among students is encouraged, but when in doubt, direct
+â Discussion among students is encouraged, but when in doubt, direct
 your questions to the professor, tutor, or lab assistant.
 
-– No late assignments will be accepted under any circumstances.
+â No late assignments will be accepted under any circumstances.
 
 # Attendance and Absences
 
@@ -85,13 +76,9 @@ your questions to the professor, tutor, or lab assistant.
 ![A Scatterplot of the Relationship between Class Attendance and Final
 Grade](index_files/figure-gfm/attendplot-1.png)
 
-– Attendance is expected and will be taken each class. You are allowed
-to miss 1 class during the semester without penalty. Any further
-absences will result in point and/or grade deductions.
+    Attendance is expected and will be taken each class. You are allowed to miss 1 class during the semester without penalty. Any further absences will result in point and/or grade deductions.
 
-– Students are responsible for all missed work, regardless of the reason
-for absence. It is also the absentee’s responsibility to get all missing
-notes or materials.
+    Students are responsible for all missed work, regardless of the reason for absence. It is also the absenteeâs responsibility to get all missing notes or materials.
 
 # Academic Honesty Policy Summary:
 
@@ -107,12 +94,12 @@ student to do so will be considered a violation of this standard.
 
 # College Policy
 
-The College’s academic honesty policies can be found in the catalog.
+The Collegeâs academic honesty policies can be found in the catalog.
 Please be assured that there will be absolutely no tolerance for
 cheating in any way. All your quizzes and exams must be done
 independently with no help from anyone. Make sure you copy the code of
 honor statement below and send me an email with your name and date of
-the time to confirm you adhere to this course policy: “I will register
+the time to confirm you adhere to this course policy: âI will register
 for only one account on Mymathlab.com. My answers to homework, quizzes
 and exams will be my own work (except for assignments that explicitly
 permit collaboration).
@@ -134,7 +121,7 @@ This tutoring is FREE and no appointment is necessary.
 
 # Online coursework Integrity Declaration
 
-Online submission of, or placing one’s name on an exam, assignment, or
+Online submission of, or placing oneâs name on an exam, assignment, or
 any course document is a statement of academic honor that the student
 has not received or given inappropriate assistance in completing it and
 that the student has complied with the Academic Honesty Policy in that
@@ -143,11 +130,11 @@ work.
 # Consequences
 
 An instructor may impose a sanction on the student that varies depending
-upon the instructor’s evaluation of the nature and gravity of the
+upon the instructorâs evaluation of the nature and gravity of the
 offense. Possible sanctions include but are not limited to, the
 following: (1) Require the student to redo the assignment; (2) Require
 the student to complete another assignment; (3) Assign a grade of zero
-to the assignment; (4) Assign a final grade of “F” for the course. A
+to the assignment; (4) Assign a final grade of âFâ for the course. A
 student may appeal these decisions according to the Academic Grievance
 Procedure. (See the relevant section in the Student Handbook.) Multiple
 violations of this policy will result in a referral to the Conduct
@@ -265,7 +252,7 @@ laptop before we meet.
 ## Week 16, April 24: Chapter-16
 
 <center>
-<img src="https://media.glassdoor.com/l/468324/dunwoody-college-office.jpg">
+<img src="spc.jpg">
 </center>
 
 ``` r
@@ -287,12 +274,12 @@ df=mtcars
 df %>%gt()
 ```
 
-<div id="jcqopvcwfv" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="hvoovnmalo" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#jcqopvcwfv .gt_table {
+#hvoovnmalo .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -317,7 +304,7 @@ df %>%gt()
   border-left-color: #D3D3D3;
 }
 
-#jcqopvcwfv .gt_heading {
+#hvoovnmalo .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -329,12 +316,12 @@ df %>%gt()
   border-right-color: #D3D3D3;
 }
 
-#jcqopvcwfv .gt_caption {
+#hvoovnmalo .gt_caption {
   padding-top: 4px;
   padding-bottom: 4px;
 }
 
-#jcqopvcwfv .gt_title {
+#hvoovnmalo .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -346,7 +333,7 @@ df %>%gt()
   border-bottom-width: 0;
 }
 
-#jcqopvcwfv .gt_subtitle {
+#hvoovnmalo .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -358,13 +345,13 @@ df %>%gt()
   border-top-width: 0;
 }
 
-#jcqopvcwfv .gt_bottom_border {
+#hvoovnmalo .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#jcqopvcwfv .gt_col_headings {
+#hvoovnmalo .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -379,7 +366,7 @@ df %>%gt()
   border-right-color: #D3D3D3;
 }
 
-#jcqopvcwfv .gt_col_heading {
+#hvoovnmalo .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -399,7 +386,7 @@ df %>%gt()
   overflow-x: hidden;
 }
 
-#jcqopvcwfv .gt_column_spanner_outer {
+#hvoovnmalo .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -411,15 +398,15 @@ df %>%gt()
   padding-right: 4px;
 }
 
-#jcqopvcwfv .gt_column_spanner_outer:first-child {
+#hvoovnmalo .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#jcqopvcwfv .gt_column_spanner_outer:last-child {
+#hvoovnmalo .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#jcqopvcwfv .gt_column_spanner {
+#hvoovnmalo .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -431,7 +418,7 @@ df %>%gt()
   width: 100%;
 }
 
-#jcqopvcwfv .gt_group_heading {
+#hvoovnmalo .gt_group_heading {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -457,7 +444,7 @@ df %>%gt()
   text-align: left;
 }
 
-#jcqopvcwfv .gt_empty_group_heading {
+#hvoovnmalo .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -472,15 +459,15 @@ df %>%gt()
   vertical-align: middle;
 }
 
-#jcqopvcwfv .gt_from_md > :first-child {
+#hvoovnmalo .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#jcqopvcwfv .gt_from_md > :last-child {
+#hvoovnmalo .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#jcqopvcwfv .gt_row {
+#hvoovnmalo .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -499,7 +486,7 @@ df %>%gt()
   overflow-x: hidden;
 }
 
-#jcqopvcwfv .gt_stub {
+#hvoovnmalo .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -512,7 +499,7 @@ df %>%gt()
   padding-right: 5px;
 }
 
-#jcqopvcwfv .gt_stub_row_group {
+#hvoovnmalo .gt_stub_row_group {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -526,11 +513,11 @@ df %>%gt()
   vertical-align: top;
 }
 
-#jcqopvcwfv .gt_row_group_first td {
+#hvoovnmalo .gt_row_group_first td {
   border-top-width: 2px;
 }
 
-#jcqopvcwfv .gt_summary_row {
+#hvoovnmalo .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -540,16 +527,16 @@ df %>%gt()
   padding-right: 5px;
 }
 
-#jcqopvcwfv .gt_first_summary_row {
+#hvoovnmalo .gt_first_summary_row {
   border-top-style: solid;
   border-top-color: #D3D3D3;
 }
 
-#jcqopvcwfv .gt_first_summary_row.thick {
+#hvoovnmalo .gt_first_summary_row.thick {
   border-top-width: 2px;
 }
 
-#jcqopvcwfv .gt_last_summary_row {
+#hvoovnmalo .gt_last_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -559,7 +546,7 @@ df %>%gt()
   border-bottom-color: #D3D3D3;
 }
 
-#jcqopvcwfv .gt_grand_summary_row {
+#hvoovnmalo .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -569,7 +556,7 @@ df %>%gt()
   padding-right: 5px;
 }
 
-#jcqopvcwfv .gt_first_grand_summary_row {
+#hvoovnmalo .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -579,11 +566,11 @@ df %>%gt()
   border-top-color: #D3D3D3;
 }
 
-#jcqopvcwfv .gt_striped {
+#hvoovnmalo .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#jcqopvcwfv .gt_table_body {
+#hvoovnmalo .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -592,7 +579,7 @@ df %>%gt()
   border-bottom-color: #D3D3D3;
 }
 
-#jcqopvcwfv .gt_footnotes {
+#hvoovnmalo .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -606,7 +593,7 @@ df %>%gt()
   border-right-color: #D3D3D3;
 }
 
-#jcqopvcwfv .gt_footnote {
+#hvoovnmalo .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding-left: 4px;
@@ -615,7 +602,7 @@ df %>%gt()
   padding-right: 5px;
 }
 
-#jcqopvcwfv .gt_sourcenotes {
+#hvoovnmalo .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -629,7 +616,7 @@ df %>%gt()
   border-right-color: #D3D3D3;
 }
 
-#jcqopvcwfv .gt_sourcenote {
+#hvoovnmalo .gt_sourcenote {
   font-size: 90%;
   padding-top: 4px;
   padding-bottom: 4px;
@@ -637,64 +624,64 @@ df %>%gt()
   padding-right: 5px;
 }
 
-#jcqopvcwfv .gt_left {
+#hvoovnmalo .gt_left {
   text-align: left;
 }
 
-#jcqopvcwfv .gt_center {
+#hvoovnmalo .gt_center {
   text-align: center;
 }
 
-#jcqopvcwfv .gt_right {
+#hvoovnmalo .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#jcqopvcwfv .gt_font_normal {
+#hvoovnmalo .gt_font_normal {
   font-weight: normal;
 }
 
-#jcqopvcwfv .gt_font_bold {
+#hvoovnmalo .gt_font_bold {
   font-weight: bold;
 }
 
-#jcqopvcwfv .gt_font_italic {
+#hvoovnmalo .gt_font_italic {
   font-style: italic;
 }
 
-#jcqopvcwfv .gt_super {
+#hvoovnmalo .gt_super {
   font-size: 65%;
 }
 
-#jcqopvcwfv .gt_footnote_marks {
+#hvoovnmalo .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 75%;
   vertical-align: 0.4em;
 }
 
-#jcqopvcwfv .gt_asterisk {
+#hvoovnmalo .gt_asterisk {
   font-size: 100%;
   vertical-align: 0;
 }
 
-#jcqopvcwfv .gt_indent_1 {
+#hvoovnmalo .gt_indent_1 {
   text-indent: 5px;
 }
 
-#jcqopvcwfv .gt_indent_2 {
+#hvoovnmalo .gt_indent_2 {
   text-indent: 10px;
 }
 
-#jcqopvcwfv .gt_indent_3 {
+#hvoovnmalo .gt_indent_3 {
   text-indent: 15px;
 }
 
-#jcqopvcwfv .gt_indent_4 {
+#hvoovnmalo .gt_indent_4 {
   text-indent: 20px;
 }
 
-#jcqopvcwfv .gt_indent_5 {
+#hvoovnmalo .gt_indent_5 {
   text-indent: 25px;
 }
 </style>
@@ -1087,12 +1074,12 @@ cell_text(weight = "bold")),
 locations = cells_body(columns = hp))
 ```
 
-<div id="tqlkmmeyai" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="rfgzywryij" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#tqlkmmeyai .gt_table {
+#rfgzywryij .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -1117,7 +1104,7 @@ locations = cells_body(columns = hp))
   border-left-color: #D3D3D3;
 }
 
-#tqlkmmeyai .gt_heading {
+#rfgzywryij .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -1129,12 +1116,12 @@ locations = cells_body(columns = hp))
   border-right-color: #D3D3D3;
 }
 
-#tqlkmmeyai .gt_caption {
+#rfgzywryij .gt_caption {
   padding-top: 4px;
   padding-bottom: 4px;
 }
 
-#tqlkmmeyai .gt_title {
+#rfgzywryij .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -1146,7 +1133,7 @@ locations = cells_body(columns = hp))
   border-bottom-width: 0;
 }
 
-#tqlkmmeyai .gt_subtitle {
+#rfgzywryij .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -1158,13 +1145,13 @@ locations = cells_body(columns = hp))
   border-top-width: 0;
 }
 
-#tqlkmmeyai .gt_bottom_border {
+#rfgzywryij .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#tqlkmmeyai .gt_col_headings {
+#rfgzywryij .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1179,7 +1166,7 @@ locations = cells_body(columns = hp))
   border-right-color: #D3D3D3;
 }
 
-#tqlkmmeyai .gt_col_heading {
+#rfgzywryij .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1199,7 +1186,7 @@ locations = cells_body(columns = hp))
   overflow-x: hidden;
 }
 
-#tqlkmmeyai .gt_column_spanner_outer {
+#rfgzywryij .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1211,15 +1198,15 @@ locations = cells_body(columns = hp))
   padding-right: 4px;
 }
 
-#tqlkmmeyai .gt_column_spanner_outer:first-child {
+#rfgzywryij .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#tqlkmmeyai .gt_column_spanner_outer:last-child {
+#rfgzywryij .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#tqlkmmeyai .gt_column_spanner {
+#rfgzywryij .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -1231,7 +1218,7 @@ locations = cells_body(columns = hp))
   width: 100%;
 }
 
-#tqlkmmeyai .gt_group_heading {
+#rfgzywryij .gt_group_heading {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1257,7 +1244,7 @@ locations = cells_body(columns = hp))
   text-align: left;
 }
 
-#tqlkmmeyai .gt_empty_group_heading {
+#rfgzywryij .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -1272,15 +1259,15 @@ locations = cells_body(columns = hp))
   vertical-align: middle;
 }
 
-#tqlkmmeyai .gt_from_md > :first-child {
+#rfgzywryij .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#tqlkmmeyai .gt_from_md > :last-child {
+#rfgzywryij .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#tqlkmmeyai .gt_row {
+#rfgzywryij .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1299,7 +1286,7 @@ locations = cells_body(columns = hp))
   overflow-x: hidden;
 }
 
-#tqlkmmeyai .gt_stub {
+#rfgzywryij .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1312,7 +1299,7 @@ locations = cells_body(columns = hp))
   padding-right: 5px;
 }
 
-#tqlkmmeyai .gt_stub_row_group {
+#rfgzywryij .gt_stub_row_group {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1326,11 +1313,11 @@ locations = cells_body(columns = hp))
   vertical-align: top;
 }
 
-#tqlkmmeyai .gt_row_group_first td {
+#rfgzywryij .gt_row_group_first td {
   border-top-width: 2px;
 }
 
-#tqlkmmeyai .gt_summary_row {
+#rfgzywryij .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1340,16 +1327,16 @@ locations = cells_body(columns = hp))
   padding-right: 5px;
 }
 
-#tqlkmmeyai .gt_first_summary_row {
+#rfgzywryij .gt_first_summary_row {
   border-top-style: solid;
   border-top-color: #D3D3D3;
 }
 
-#tqlkmmeyai .gt_first_summary_row.thick {
+#rfgzywryij .gt_first_summary_row.thick {
   border-top-width: 2px;
 }
 
-#tqlkmmeyai .gt_last_summary_row {
+#rfgzywryij .gt_last_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1359,7 +1346,7 @@ locations = cells_body(columns = hp))
   border-bottom-color: #D3D3D3;
 }
 
-#tqlkmmeyai .gt_grand_summary_row {
+#rfgzywryij .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1369,7 +1356,7 @@ locations = cells_body(columns = hp))
   padding-right: 5px;
 }
 
-#tqlkmmeyai .gt_first_grand_summary_row {
+#rfgzywryij .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1379,11 +1366,11 @@ locations = cells_body(columns = hp))
   border-top-color: #D3D3D3;
 }
 
-#tqlkmmeyai .gt_striped {
+#rfgzywryij .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#tqlkmmeyai .gt_table_body {
+#rfgzywryij .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1392,7 +1379,7 @@ locations = cells_body(columns = hp))
   border-bottom-color: #D3D3D3;
 }
 
-#tqlkmmeyai .gt_footnotes {
+#rfgzywryij .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1406,7 +1393,7 @@ locations = cells_body(columns = hp))
   border-right-color: #D3D3D3;
 }
 
-#tqlkmmeyai .gt_footnote {
+#rfgzywryij .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding-left: 4px;
@@ -1415,7 +1402,7 @@ locations = cells_body(columns = hp))
   padding-right: 5px;
 }
 
-#tqlkmmeyai .gt_sourcenotes {
+#rfgzywryij .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1429,7 +1416,7 @@ locations = cells_body(columns = hp))
   border-right-color: #D3D3D3;
 }
 
-#tqlkmmeyai .gt_sourcenote {
+#rfgzywryij .gt_sourcenote {
   font-size: 90%;
   padding-top: 4px;
   padding-bottom: 4px;
@@ -1437,64 +1424,64 @@ locations = cells_body(columns = hp))
   padding-right: 5px;
 }
 
-#tqlkmmeyai .gt_left {
+#rfgzywryij .gt_left {
   text-align: left;
 }
 
-#tqlkmmeyai .gt_center {
+#rfgzywryij .gt_center {
   text-align: center;
 }
 
-#tqlkmmeyai .gt_right {
+#rfgzywryij .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#tqlkmmeyai .gt_font_normal {
+#rfgzywryij .gt_font_normal {
   font-weight: normal;
 }
 
-#tqlkmmeyai .gt_font_bold {
+#rfgzywryij .gt_font_bold {
   font-weight: bold;
 }
 
-#tqlkmmeyai .gt_font_italic {
+#rfgzywryij .gt_font_italic {
   font-style: italic;
 }
 
-#tqlkmmeyai .gt_super {
+#rfgzywryij .gt_super {
   font-size: 65%;
 }
 
-#tqlkmmeyai .gt_footnote_marks {
+#rfgzywryij .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 75%;
   vertical-align: 0.4em;
 }
 
-#tqlkmmeyai .gt_asterisk {
+#rfgzywryij .gt_asterisk {
   font-size: 100%;
   vertical-align: 0;
 }
 
-#tqlkmmeyai .gt_indent_1 {
+#rfgzywryij .gt_indent_1 {
   text-indent: 5px;
 }
 
-#tqlkmmeyai .gt_indent_2 {
+#rfgzywryij .gt_indent_2 {
   text-indent: 10px;
 }
 
-#tqlkmmeyai .gt_indent_3 {
+#rfgzywryij .gt_indent_3 {
   text-indent: 15px;
 }
 
-#tqlkmmeyai .gt_indent_4 {
+#rfgzywryij .gt_indent_4 {
   text-indent: 20px;
 }
 
-#tqlkmmeyai .gt_indent_5 {
+#rfgzywryij .gt_indent_5 {
   text-indent: 25px;
 }
 </style>
