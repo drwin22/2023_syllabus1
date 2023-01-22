@@ -32,16 +32,12 @@ At the completion of this course, students will be able to:
 
 * Identify and understand the basic concepts of algebraic expressions. 
 * Perform operations on polynomial and rational expressions.
-- Apply the definition of absolute value to solve inequalities and equations
-involving absolute values.
-- Find solutions to and graph systems of
-linear equations and inequalities.
-- Solve equations involving first and
-second-degree polynomials and rational expressions.
+- Apply the definition of absolute value to solve inequalities and equations involving absolute values.
+- Find solutions to and graph systems of linear equations and inequalities.
+- Solve equations involving first and second-degree polynomials and rational expressions.
 - Manipulate radical expressions using laws of exponents.
 - Understand basic properties of functions.
-- Apply properties of rational and radical expressions,
-- polynomials, and absolute value in the context of real-life
+- Apply properties of rational and radical expressions polynomials, and absolute value in the context of real-life problem
 
 # Course Policies:
 
