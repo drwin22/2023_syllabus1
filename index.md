@@ -5,8 +5,8 @@ Spring 2023
 
 - email: <Francois.nguyen@saintpaul.edu>
 - web: MymathLab.com
-- office hours: TTh 9:30 to 11:00 am and by appointment
-- office: Room
+- office hours: by appointment
+- office: 3460
 - classroom: ‘4140’
 
 # Overview:
@@ -30,15 +30,18 @@ A minimum grade of C is required in this course to progress to COURSE.
 
 At the completion of this course, students will be able to:
 
-Identify and understand the basic concepts of algebraic expressions. -
-Perform operations on polynomial and rational expressions. - Apply the
-definition of absolute value to solve inequalities and equations
-involving absolute values. - Find solutions to and graph systems of
-linear equations and inequalities. - Solve equations involving first and
-second-degree polynomials and rational expressions. - Manipulate radical
-expressions using laws of exponents. - Understand basic properties of
-functions. - Apply properties of rational and radical expressions,
-polynomials, and absolute value in the context of real-life
+* Identify and understand the basic concepts of algebraic expressions. 
+* Perform operations on polynomial and rational expressions.
+- Apply the definition of absolute value to solve inequalities and equations
+involving absolute values.
+- Find solutions to and graph systems of
+linear equations and inequalities.
+- Solve equations involving first and
+second-degree polynomials and rational expressions.
+- Manipulate radical expressions using laws of exponents.
+- Understand basic properties of functions.
+- Apply properties of rational and radical expressions,
+- polynomials, and absolute value in the context of real-life
 
 # Course Policies:
 
