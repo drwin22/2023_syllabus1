@@ -2,6 +2,9 @@ Syllabus Math 0910: Introduction Algebra
 ================
 Prof. Francois Nguyen
 Spring 2023
+![A Scatterplot of the Relationship between Class Attendance and Final
+Grade](index_files/figure-gfm/banner.jpg)
+https://www.saintpaul.edu/studentservices/PublishingImages/trio-student-support-services/TRIO%20Students%20Graduation%202018.jpg
 
 - email: <Francois.nguyen@saintpaul.edu>
 - web: MymathLab.com
