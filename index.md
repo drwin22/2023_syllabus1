@@ -330,11 +330,7 @@ Details about insentives can be found at
 <https://www.southalabama.edu/coronavirus/vaccineincentive/>
 
 ## Disabilities
-<https://www.saintpaul.edu/studentservices/Access-and-Disability-Resources>
- The ADR office works to minimize barriers and ensure equitable access by offering:
-* reasonable accommodations
-* academic coaching and advising related to disability
-* education on assistive technology and inclusive design
+
 
 ## Disaster plan
 
