@@ -331,6 +331,11 @@ Details about insentives can be found at
 
 ## Disabilities
 
+[Disability Services] (https://www.saintpaul.edu/studentservices/Access-and-Disability-Resources)
+The Office of Access & Disability Resources (ADR) strives to provide holistic support to students with disabilities through collaboration with faculty and staff. The ADR office works to minimize barriers and ensure equitable access by offering:
+* reasonable accommodations
+* academic coaching and advising related to disability
+* education on assistive technology and inclusive design
 
 ## Disaster plan
 
