@@ -165,26 +165,10 @@ The full text of the Academic Honesty Policy is in the Student Handbook.
 
 1.  [Chapter 2 Video](http://mymathlab.com,
     and [Reading chapter 2](http:www.mymathlab.com/)
-2.  [Data Access and Research Transparency (DA-RT): A Joint Statement by
-    Political Science Journal
-    Editors.](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=9911378&fulltextType=LT&fileId=S2049847015000448)
-3.  [*AJPS* Replication and Verification
-    Policy](https://ajps.org/ajps-replication-policy/) and [*American
-    Journal of Political Science* Guidelines for Preparing Replication
-    Files.](https://ajpsblogging.files.wordpress.com/2015/03/ajps-guide-for-replic-materials-1-0.pdf)
-4.  [Gelman, Andrew, and Eric Loken. 2013. “The Garden of Forking Paths:
-    Why Multiple Comparisons Can Be a Problem, Even When There Is No
-    ‘Fishing Expedition’ or ‘*p*-Hacking’ and the Research Hypothesis
-    Was Posited Ahead of
-    Time.”](http://www.stat.columbia.edu/~gelman/research/unpublished/p_hacking.pdf)
-5.  [Leek, Jeffrey T., and Roger D. Peng. 2015. “Opinion: Reproducibile
-    Research Can Still Be Wrong: Adopting a Prevention Approach.”
-    *Proceedings of the National Academy of Sciences*
-    112(6):1645-1646](http://www.pnas.org.proxy.lib.uiowa.edu/content/112/6/1645)
-    and [Patil, Prasad, Roger D. Peng, and Jeffrey T. Leek. 2016. “A
-    Statistical Definition for Reproducibility and Replicability.”
-    *bioRxiv*, July
-    29.](http://biorxiv.org/content/biorxiv/early/2016/07/29/066803.full.pdf)
+2.  [Do your homework- Section 2.1 to 2-4
+    ](http://www.mymathlab.com
+    Policy](https://ajps.org/ajps-replication-policy/) 
+4. [ my assignment](http://biorxiv.org/content/biorxiv/early/2016/07/29/066803.full.pdf)
 
 ## Week 3, January 23: Chapter-03
 
