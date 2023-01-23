@@ -155,9 +155,9 @@ The full text of the Academic Honesty Policy is in the Student Handbook.
 
 *Assignment*:
 
-1.  [Bryan, Jennifer. 2016. Chapters 1-16.](http://happygitwithr.com)
+1.  [Set up registration in MyLab Pearson Mastering.](https://saintpaul.learn.minnstate.edu/d2l/login))
     Read this carefully and follow its instructions to get set up with ,
-    RStudio, Git, and GitHub on your laptop before we meet.
+    MyLab Pearson Mastering, Redshelf, and introduce yourself on discusion post before we meet.
 
 ## Week 2, January 16: The Replication Crisis and Reproducibility
 
