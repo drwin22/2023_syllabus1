@@ -238,21 +238,45 @@ instructions to get set up with , RStudio, Git, and GitHub on your
 laptop before we meet.
 
 ## Week 9, March 6: Chapter-09
-
+*Readings*: [Bryan, Jennifer. 2016. Chapters
+1-16.](http://happygitwithr.com) Read this carefully and follow its
+instructions to get set up with , RStudio, Git, and GitHub on your
+laptop before we meet.
 ## Week 10, March 13: Chapter-10
-
+*Readings*: [Bryan, Jennifer. 2016. Chapters
+1-16.](http://happygitwithr.com) Read this carefully and follow its
+instructions to get set up with , RStudio, Git, and GitHub on your
+laptop before we meet.
 ## Week 11, March 20: Chapter-11
-
+*Readings*: [Bryan, Jennifer. 2016. Chapters
+1-16.](http://happygitwithr.com) Read this carefully and follow its
+instructions to get set up with , RStudio, Git, and GitHub on your
+laptop before we meet.
 ## Week 12, March 27: Chapter-12
-
+*Readings*: [Bryan, Jennifer. 2016. Chapters
+1-16.](http://happygitwithr.com) Read this carefully and follow its
+instructions to get set up with , RStudio, Git, and GitHub on your
+laptop before we meet.
 ## Week 13, April 3: Chapter-13
-
+*Readings*: [Bryan, Jennifer. 2016. Chapters
+1-16.](http://happygitwithr.com) Read this carefully and follow its
+instructions to get set up with , RStudio, Git, and GitHub on your
+laptop before we meet.
 ## Week 14, April 10: Chapter-14
-
+*Readings*: [Bryan, Jennifer. 2016. Chapters
+1-16.](http://happygitwithr.com) Read this carefully and follow its
+instructions to get set up with , RStudio, Git, and GitHub on your
+laptop before we meet.
 ## Week 15, April 17: Chapter-15
-
+*Readings*: [Bryan, Jennifer. 2016. Chapters
+1-16.](http://happygitwithr.com) Read this carefully and follow its
+instructions to get set up with , RStudio, Git, and GitHub on your
+laptop before we meet.
 ## Week 16, April 24: Chapter-16
-
+*Readings*: [Bryan, Jennifer. 2016. Chapters
+1-16.](http://happygitwithr.com) Read this carefully and follow its
+instructions to get set up with , RStudio, Git, and GitHub on your
+laptop before we meet.
 <center>
 <img src="spc.JPG">
 </center>
