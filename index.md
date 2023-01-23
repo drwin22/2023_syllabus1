@@ -163,14 +163,8 @@ The full text of the Academic Honesty Policy is in the Student Handbook.
 
 *Readings*:
 
-1.  [Aschwanden, Christie, and Maggie Koerth-Baker. 2016. “How Two Grad
-    Students Uncovered an Apparent Fraud—and a Way to Change Opinions on
-    Transgender Rights.” *FiveThirtyEight*, April
-    7](http://fivethirtyeight.com/features/how-two-grad-students-uncovered-michael-lacour-fraud-and-a-way-to-change-opinions-on-transgender-rights/),
-    and [Dimitrova, Velichka. 2013. “Reinhart-Rogoff Revisited: Coding
-    Errors Happen—Key Problem Was in Not Making the Data Openly
-    Available from the Start.” *LSE: The Impact Blog*, April
-    24.](http://blogs.lse.ac.uk/impactofsocialsciences/2013/04/24/reinhart-rogoff-revisited-why-we-need-open-data-in-economics/)
+1.  [Chapter 2 Video](http://mymathlab.com,
+    and [Reading chapter 2](http:www.mymathlab.com/)
 2.  [Data Access and Research Transparency (DA-RT): A Joint Statement by
     Political Science Journal
     Editors.](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=9911378&fulltextType=LT&fileId=S2049847015000448)
