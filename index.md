@@ -2,10 +2,9 @@ Syllabus Math 0910: Introduction Algebra
 ================
 Prof. Francois Nguyen
 Spring 2023
-```{r echo = FALSE, results = 'asis'}
-image = "https://img.favpng.com/25/6/13/saint-paul-college-st-catherine-university-minnesota-state-university-mankato-png-favpng-pTq5ZcdPXCMP62UssZBQtFuNy.jpg"
-cat(paste0('<center><img src="', image,  '"></center>'))
-```
+<center>
+<img src="[spc.JPG](https://banner2.cleanpng.com/20180608/ftv/kisspng-saint-paul-college-st-catherine-university-minnes-community-college-5b1ab3aba40b74.9735404215284765876719.jpg)">
+</center>
 
 - email: <Francois.nguyen@saintpaul.edu>
 - web: MymathLab.com
