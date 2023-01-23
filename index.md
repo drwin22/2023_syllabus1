@@ -330,15 +330,11 @@ Details about insentives can be found at
 <https://www.southalabama.edu/coronavirus/vaccineincentive/>
 
 ## Disabilities
-
-In accordance with the Americans with Disabilities Act, students with
-bona fide disabilities will be afforded reasonable accommodations. The
-Office of Special Student Services (OSSS) will certify a disability and
-advise faculty members of reasonable accommodations. If you have a
-specific disability that qualifies you for academic accommodations,
-please notify the instructor/professor and provide certification from
-the Office of Special Student Services. OSSS is located at 5828 Old
-Shell Road at Jaguar Drive, (251-460-7212).
+<https://www.saintpaul.edu/studentservices/Access-and-Disability-Resources>
+ The ADR office works to minimize barriers and ensure equitable access by offering:
+* reasonable accommodations
+* academic coaching and advising related to disability
+* education on assistive technology and inclusive design
 
 ## Disaster plan
 
